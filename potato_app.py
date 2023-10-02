@@ -72,7 +72,7 @@ a:hover,  a:active {
 </style>
 
 <div class="footer">
-<p align="center"> <a href="https://www.linkedin.com/in/ronylpatil/">Developed with ❤ by ronil</a></p>
+<p align="center"> <a href="https://www.linkedin.com/in/ronylpatil/">Developed by Habib</a></p>
 </div>
         """
 
