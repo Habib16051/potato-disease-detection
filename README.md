@@ -8,7 +8,7 @@ This project is the part of our HuoAgroFarm. It's basically a microservices whic
 
 
 # Output: 
-After uploading the image, Our trained model will analyze the image and will predict the images Either it is healthier, Early Blight r=or Late Blight! As we divide the images into 3 
+After uploading the image, Our trained model will analyze the image and will predict the images Either it is healthier, Early Blight or Late Blight! As we divide the images into 3 
 categories!
 
 ![image](https://github.com/Habib16051/potato-disease-detection/assets/39822204/7dd6bcd6-0d0e-4399-8835-4c80098e94c8)
