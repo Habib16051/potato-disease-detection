@@ -72,7 +72,8 @@ a:hover,  a:active {
 </style>
 
 <div class="footer">
-<p align="center"> <a href="https://www.linkedin.com/in/ronylpatil/">Developed by Habib</a></p>
+<p align="center"> <a href="https://www.linkedin.com/in/md-habibur-rahman71/">Developed by Habib16051</a></p>
+<p align="center"><a href="https://github.com/Habib16051">Visit My Github</a> </p>
 </div>
         """
 
