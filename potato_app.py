@@ -14,7 +14,7 @@ hide_streamlit_style = """
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html = True)
 
-st.title('Potato Leaf Disease Prediction')
+st.title('Potato Leaf Disease Detection')
 
 def main() :
     file_uploaded = st.file_uploader('Choose an image...', type = 'jpg')
